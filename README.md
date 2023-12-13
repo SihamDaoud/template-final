@@ -82,17 +82,20 @@ The creation and posting of this web page is worth 20% of your final grade and m
 
 | Criteria                | Total&nbsp;Marks | How we define excellence                                                                                                                                                                                                                                                                                                              |
 | ----------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HTML              | **35%**          | The HTML code submitted is well formed, and structured. Appropriate semantic elements are used throughout the document. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in the `<head>` to set the charset and viewport values.|
-|CSS     | **35%**          | The  CSS code submitted is well formed, and implements the Product Card as specified in the content and design requirements. The design only has to work in desktop mode as we have yet to cover responsive design.                                                          |
+|Overall code quality              | **10%**          | The HTML code submitted is well formed, and structured. Appropriate semantic elements are used throughout the document. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in the `<head>` to set the charset and viewport values. The  CSS code submitted is well formed, and implements the Web page as specified in the content and design requirements.|                                                        |
+|Header and Footer   | **10%**          | The Header and Footer areas are implemented per specification                                                          |
+|Hero     | **10%**          | The Hero section is implemented per specification                                                          |
+|Skills     | **10%**          | The Skills section is implemented per specification                                                          |
+|About     | **10%**          | The About section is implemented per specification                                                          |
+|My Work     | **10%**          | The My Work section is implemented per specification                                                          |
+|CTA     | **10%**          | The Call to action section is implemented per specification                                                          |
 | Moment of charm                  | **10%**          | Unique design elements have been added to elevate the product card. For example, a background gradient, box shadow, hover state for link, border radius (or lack thereof), changes to spacing, or any unique design elements.                                                                                                                                             |
 | W3C Compliance          | **10%**          | There are no validation errors found in the code for either the HTML or CSS.                                                                                                                                                                                                                                                                                     |
 | GitHub&nbsp;submission  | **10%**          | The HTML content is added to the `index.html` file and CSS is added to the `style.css` file. The repository has both the assignment README.md file and a LICENSE file that contains the MIT license. GitHub Pages services has been correctly activated.                                                                              |
 
 ## Late submissions
 
-- There is no make up or deferred midterm exam
-- Students that fail to submit a midterm will receive a mark of 0 and will have their final exam weight be adjusted to include the midterm
-- For example, the midterm is worth 10% of your mark, and the final is worth 20%. If you do not attend the midterm your final exam weight will be adjusted to 30% (10% + 20%) of your final grade.
+- If you miss the final exam you may apply for a deferred final exam
 
 ## Checklist
 
@@ -100,6 +103,7 @@ To help with your submission, make sure that you have reviewed the following ite
 
 - [x] Your code is committed and pushed to the GitHub repo that GitHub Classrooms created for you
 - [x] The web page fulfills the minimum content and design requirements
+- [x] The web page works in both mobile and desktop views
 - [x] [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) is activated for your repo and your web page is live and accessible.
 - [x] The web page passes [W3C validation](https://validator.w3.org/#validate_by_uri) for both `HTML` and `CSS`
 
@@ -119,11 +123,11 @@ There are a few ways that you can submit your work to your Assignment repository
 
 <dl>
   
-  <dt>What type of content should I include in the Product Card that I am building?</dt>
+  <dt>What type of content should I include in the page that I am building?</dt>
   <dd>The content has already been provided for you. You are permitted to add or slightly modify the content if your design warrants it.</dd>
   
   <dt>Does the web page have to work in both mobile and desktop</dt>
-  <dd>No! You only need to make your web page work in desktop mode. Don't worry about mobile mode for this Assignment.</dd>
+  <dd>Yes! You need to make your web page work in both desktop and mobile mode.</dd>
 
   <dt>Can I use my code from Assignment 01 or Tutorials</dt>
   <dd>Yes. Absolutely. You are permitted to use any code from any source. External sources (work that you didn't do) must be cited.</dd>
