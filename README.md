@@ -20,6 +20,7 @@
 
 - [Description](#description)
 - [Content and design requirements](#content-and-design-requirements)
+- [Desired outcome](#desired-outcome)
 - [Acceptance criteria](#acceptance-criteria)
 - [Grading rubric](#grading-rubric)
 - [Late submissions](#late-submissions)
